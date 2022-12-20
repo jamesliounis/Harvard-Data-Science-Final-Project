@@ -22,8 +22,8 @@ The trained and tuned machine learning model will be integrated into a web appli
 Repository Structure
 The repository is organized as follows:
 
-data: This folder contains the raw and preprocessed data used in the project.
-models: This folder contains the trained machine learning models and scripts for training and tuning them.
-app: This folder contains the code for the web application that allows users to input a URL and receive a prediction from the model.
-tests: This folder contains scripts for testing the various components of the project.
-docs: This folder contains documentation for the project, including a detailed README file.
+- `malicious_phish.csv`: contains the raw and preprocessed data used in the project
+
+- `Detecting_malicious_URLs.ipynb`: contains the trained machine learning models and scripts for training and tuning them.
+- `detection_interface.py`: contains the code for the web application that allows users to input a URL and receive a prediction from the model.
+- 'Written_Report.pdf`: documentation for the project, as well as a detailed analysis of our findings
