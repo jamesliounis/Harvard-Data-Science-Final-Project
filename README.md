@@ -1,6 +1,6 @@
 # Harvard-Data-Science-Final-Project
 
-# Malicious URL Detection App
+# Malicious URL Detection Software
 
 ## Project Overview
 This project involves building a machine learning model to detect malicious URLs. The model will be trained on a dataset of URLs labeled as either malicious or benign, and will be used to classify new URLs as either safe or malicious.
